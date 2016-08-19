@@ -4,7 +4,7 @@
   "description": "Webiste",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --inline --hot -w"
+    "dev": "webpack-dev-server -w"
   },
   "repository": {
     "type": "git",
