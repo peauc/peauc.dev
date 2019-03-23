@@ -13,7 +13,7 @@ class App extends React.Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-        <Navbar/>
+        <Navbar links={["hello", "holla"]} logo={'blank'}/>
       </div>
     );
   }
