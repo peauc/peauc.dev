@@ -1,0 +1,27 @@
+{
+  "name": "peauc.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"dev": "next",
+	"build": "next build",
+	"start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peauc/peauc.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peauc/peauc.dev/issues"
+  },
+  "homepage": "https://github.com/peauc/peauc.dev#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
